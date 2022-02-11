@@ -72,7 +72,6 @@ body {
   #scroll {
     margin-bottom: 2000px;
   }
-  /* START BELOW THIS LINE */
 
   /* 1 */
   /* postion: static; */
@@ -130,7 +129,7 @@ body {
 
   /* BONUS */
 
-/* a */
+  /* 1 */
   #time{
       position: fixed;
       z-index: 2;
@@ -141,13 +140,13 @@ body {
       z-index: 3;
   }
 
-  /* b */
+  /* 2 */
 
   #soul{
       z-index: 1;
   }
 
-  /* c */
+  /* 3 */
   h2 {
       position:sticky;
       top: 60px;
